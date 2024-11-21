@@ -1,0 +1,48 @@
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer_selfmake_.Form1.resources
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).csproj.GenerateResource.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).AssemblyInfoInputs.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).AssemblyInfo.cs
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).csproj.CoreCompileInputs.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).exe
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).deps.json
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).runtimeconfig.json
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).dll
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).pdb
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).dll
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\refint\UnityServer(selfmake).dll
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).pdb
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).genruntimeconfig.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake)\UnityServer(selfmake)\obj\Debug\net8.0-windows\ref\UnityServer(selfmake).dll
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).exe
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).deps.json
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).runtimeconfig.json
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).dll
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).pdb
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer_selfmake_.Form1.resources
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).csproj.GenerateResource.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).AssemblyInfoInputs.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).AssemblyInfo.cs
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).csproj.CoreCompileInputs.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).dll
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\refint\UnityServer(selfmake).dll
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).pdb
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).genruntimeconfig.cache
+D:\VS_CODE\OPP-BT\BT1\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\ref\UnityServer(selfmake).dll
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).exe
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).deps.json
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).runtimeconfig.json
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).dll
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\bin\Debug\net8.0-windows\UnityServer(selfmake).pdb
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer_selfmake_.Form1.resources
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).csproj.GenerateResource.cache
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).AssemblyInfoInputs.cache
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).AssemblyInfo.cs
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).dll
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\refint\UnityServer(selfmake).dll
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).pdb
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\UnityServer(selfmake).genruntimeconfig.cache
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\UnityServer(selfmake) - Copy\UnityServer(selfmake)\obj\Debug\net8.0-windows\ref\UnityServer(selfmake).dll
